@@ -35,8 +35,8 @@ MLP – это простой, но эффективный выбор для к�
 
 🔹 Скопируйте репозиторий
  ```bash
-   git clone https://github.com/SergeyGermanovichML/ny_2015
-   cd ny_2015
+   git clone https://github.com/SergeyGermanovichML/NY_2015_Street_tree_census.git
+   cd NY_2015_Street_tree_census
    ```
 🔹 Установка зависимостей и запуск app
 ```bash
